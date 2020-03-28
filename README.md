@@ -3,26 +3,26 @@
 # Application Web 
 ![Login](https://github.com/jardeel/SemanaOmnistack11/blob/master/login.png)
 # Application Mobile
-##imagen
+![Mobile](https://github.com/jardeel/SemanaOmnistack11/blob/master/splash.png)
 # Technologies
-.ReactJS
-.React-Native
-.JavaScript
-.NodeJS
-.expo
-.intl
-.babel-preset-expo
-.babe/core
-.celebrate
-.cors
-.cross-env
-.express
-.knex
-.sqlite
-.nodemon
-.supertest
-.jest
-.axios
+*ReactJS
+*React-Native
+*JavaScript
+*NodeJS
+*expo
+*intl
+*babel-preset-expo
+*babe/core
+*celebrate
+*cors
+*cross-env
+*express
+*knex
+*sqlite
+*nodemon
+*supertest
+*jest
+*axios
 
 # Running locally
 ### Start Back-end
