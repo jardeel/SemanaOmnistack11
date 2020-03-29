@@ -25,14 +25,18 @@
 * axios
 
 # Running locally
+
+### Install dependencies
+* npm install
+
 ### Start Back-end
-npm start
+* npm start
 
 ### Start Front-end
-npm start
+* npm start
 
 ### Start Mobile(expo)
-yarn start
+* yarn start
 
 
 
